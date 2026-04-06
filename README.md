@@ -1,6 +1,6 @@
 # Hi there, I'm Ishan! 👋
 
-I am a **Computer Science student at the University of Minnesota** (GPA: 3.8) and an **Undergraduate Teaching Assistant**. I specialize in systems programming, AI, and am currently expanding into full-stack development.
+I am a **Computer Science student at the University of Minnesota** and an **Undergraduate Teaching Assistant**. I specialize in systems programming, machine learning/artificial intelligence, and full-stack development.
 
 ---
 
@@ -25,7 +25,7 @@ I am a **Computer Science student at the University of Minnesota** (GPA: 3.8) an
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-### 🌐 Frameworks (Currently Learning)
+### 🌐 Frameworks
 [![Learning](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
 
 ---
