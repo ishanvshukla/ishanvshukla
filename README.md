@@ -38,5 +38,5 @@ I am a **Computer Science student at the University of Minnesota** and an **Unde
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn**: [linkedin.com/in/ishanvshukla](https://linkedin.com/in/ishanvshukla) [cite: 2]
-* **Email**: ishan.v.shukla@gmail.com [cite: 2]
+* **LinkedIn**: [linkedin.com/in/ishanvshukla](https://linkedin.com/in/ishanvshukla) 
+* **Email**: ishan.v.shukla@gmail.com 
