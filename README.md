@@ -1,4 +1,4 @@
-# Hi there, I'm Ishan! 👋
+# Hi there, I'm Ishan!
 
 I am a **Computer Science student at the University of Minnesota** and an **Undergraduate Teaching Assistant**. I specialize in systems programming, machine learning/artificial intelligence, and full-stack development.
 
