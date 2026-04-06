@@ -31,17 +31,9 @@ I am a **Computer Science student at the University of Minnesota** and an **Unde
 ---
 
 ## 🚀 Featured Projects
-* [cite_start]**Drone Simulation (C++, JS, Docker)**: Developed backend systems (3K+ LOC) using SOLID principles and Dijkstra/A* pathfinding. [cite: 30, 32]
-* [cite_start]**Multithreaded HTTP Server (C)**: Built a server supporting concurrent client connections using low-level socket system calls. [cite: 26, 28]
-* [cite_start]**A* Maze Solver (Python)**: Implemented an optimal pathfinder using priority queues and Manhattan-distance heuristics. [cite: 22, 24]
-
----
-
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanvshukla&show_icons=true&theme=radical" alt="Ishan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanvshukla&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+* **Drone Simulation (C++, JS, Docker)**: Developed backend systems (3K+ LOC) using SOLID principles and Dijkstra/A* pathfinding. [cite: 30, 32]
+* **Multithreaded HTTP Server (C)**: Built a server supporting concurrent client connections using low-level socket system calls. [cite: 26, 28]
+* **A* Maze Solver (Python)**: Implemented an optimal pathfinder using priority queues and Manhattan-distance heuristics. [cite: 22, 24]
 
 ---
 
