@@ -25,9 +25,6 @@ I am a **Computer Science student at the University of Minnesota** and an **Unde
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
-### 🌐 Frameworks
-[![Learning](https://skillicons.dev/icons?i=react,nodejs,express)](https://skillicons.dev)
-
 ---
 
 ## 🚀 Featured Projects
