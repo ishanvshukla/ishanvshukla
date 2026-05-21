@@ -16,7 +16,7 @@ I am a **Computer Science student at the University of Minnesota** and an **Unde
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,vscode,idea" />
   </a>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 ---
 ## 🚀 Featured Projects
