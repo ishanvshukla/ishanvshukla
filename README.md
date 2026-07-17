@@ -50,15 +50,6 @@ I'm a computer science student at the University of Minnesota and an undergradua
 - **Multithreaded HTTP Server (C)**: Built a server supporting concurrent client connections using low-level socket system calls.
 - **A\* Maze Solver (Python)**: Implemented an optimal pathfinder using priority queues and Manhattan-distance heuristics.
 
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
 ## Let's Connect!
 
 - **LinkedIn**: [linkedin.com/in/ishanvshukla](https://www.linkedin.com/in/ishanvshukla)
