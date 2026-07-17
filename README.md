@@ -1,7 +1,7 @@
 <!-- Optional: animated typing header. Delete this block if you don't want it.
      Edit the text after "lines=" (separate lines with ";", use "+" for spaces). -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=systems+programming+%C2%B7+ML%2FAI+%C2%B7+full-stack;CS+%40+UMN+%C2%B7+Undergraduate+TA" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=systems+programming+%C2%B7+ML%2FAI+%C2%B7+full-stack;cs+%40+UMN+%C2%B7+undergraduate+TA" alt="Typing animation" />
 </p>
 
 I'm a computer science student at the University of Minnesota and an undergraduate teaching assistant. I specialize in systems programming, machine learning/artificial intelligence, and full-stack development.
