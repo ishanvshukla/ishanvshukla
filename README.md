@@ -9,7 +9,6 @@ I'm a computer science student at the University of Minnesota and an undergradua
 ## 🛠️ Technical Skills
 
 ### Languages
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="64" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="64" alt="Java" />
@@ -22,17 +21,17 @@ I'm a computer science student at the University of Minnesota and an undergradua
 </p>
 
 ### Libraries
-
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="64" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="64" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" height="64" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat" height="64" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="64" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="64" alt="Keras" />
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" height="64" alt="JUnit5" />
 </p>
 
 ### Tools
-
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="64" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" height="64" alt="Bash" />
@@ -45,12 +44,10 @@ I'm a computer science student at the University of Minnesota and an undergradua
 </p>
 
 ## 🚀 Featured Projects
-
 - **Drone Simulation (C++, JS, Docker)**: Developed backend systems (3K+ LOC) using SOLID principles and Dijkstra/A\* pathfinding.
 - **Multithreaded HTTP Server (C)**: Built a server supporting concurrent client connections using low-level socket system calls.
 - **A\* Maze Solver (Python)**: Implemented an optimal pathfinder using priority queues and Manhattan-distance heuristics.
 
 ## Let's Connect!
-
 - **LinkedIn**: [linkedin.com/in/ishanvshukla](https://www.linkedin.com/in/ishanvshukla)
 - **Email**: [ishan.v.shukla@gmail.com](mailto:ishan.v.shukla@gmail.com)
